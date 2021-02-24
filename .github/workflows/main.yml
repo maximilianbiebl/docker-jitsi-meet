@@ -1,0 +1,2 @@
+docker build . -t ghcr.io/maximilianbiebl/docker-jitsi-meet/image:1
+docker push ghcr.io/maximilianbiebl/docker-jitsi-meet/image:1
